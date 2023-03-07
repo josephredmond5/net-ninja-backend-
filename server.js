@@ -1,4 +1,4 @@
-// This code creates a server that logs a message to the console every time a request is made to port 3000 of the local host.
+ /* This code creates a server that logs a message to the console every time a request is made to port 3000 of the local host.*/
 
 const http = require('http');
 
